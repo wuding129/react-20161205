@@ -192,6 +192,7 @@ class SimpleLineChart extends React.Component {
 	}
 }
 
+
 ReactDOM.render(
 	<SimpleLineChart />,
 	document.getElementById('root5')
